@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning IT and information systems
 - ⚡ Fun fact: I have been swimming with sharks
 - I am currently just testing this for school-purposes
+- I have just used the regular README for my account and added it here.
 
 <!---
 TrulsNaess/TrulsNaess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
