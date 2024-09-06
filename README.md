@@ -5,6 +5,7 @@
 - I am currently just testing this for school-purposes
 - I have just used the regular README for my account and added it here.
 - Current operationsystem on this computer is Windows 11, version 23H2.
+- Username: TrulsNaess
 
 
 <!---
