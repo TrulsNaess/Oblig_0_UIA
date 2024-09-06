@@ -4,6 +4,8 @@
 - ⚡ Fun fact: I have been swimming with sharks
 - I am currently just testing this for school-purposes
 - I have just used the regular README for my account and added it here.
+- Current operationsystem on this computer is Windows 11, version 23H2.
+
 
 <!---
 TrulsNaess/TrulsNaess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
